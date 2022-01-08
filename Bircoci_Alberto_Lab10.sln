@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bircoci_Alberto_Lab10.Andro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bircoci_Alberto_Lab10.iOS", "Bircoci_Alberto_Lab10.iOS\Bircoci_Alberto_Lab10.iOS.csproj", "{27A9D9AE-A50A-4D04-9477-CD247E7FC542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bircoci_Alberto_Lab10", "Bircoci_Alberto_Lab10\Bircoci_Alberto_Lab10.csproj", "{6E5F4CA0-5F71-43A0-9B4D-3D29DD70FF12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bircoci_Alberto_Lab10", "Bircoci_Alberto_Lab10\Bircoci_Alberto_Lab10.csproj", "{6E5F4CA0-5F71-43A0-9B4D-3D29DD70FF12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
